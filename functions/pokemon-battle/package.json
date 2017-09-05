@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "pokemon-battle@~1.3.0",
+        "scope": null,
+        "escapedName": "pokemon-battle",
+        "name": "pokemon-battle",
+        "rawSpec": "~1.3.0",
+        "spec": ">=1.3.0 <1.4.0",
+        "type": "range"
+      },
+      "/Users/erlichmen/developer/gde/gcp-chatbot/cloud-functions/functions"
+    ]
+  ],
+  "_from": "pokemon-battle@>=1.3.0 <1.4.0",
+  "_id": "pokemon-battle@1.3.0",
+  "_inCache": true,
+  "_location": "/pokemon-battle",
+  "_npmUser": {
+    "name": "fonse",
+    "email": "aalfonso42@gmail.com"
+  },
+  "_npmVersion": "1.3.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "pokemon-battle@~1.3.0",
+    "scope": null,
+    "escapedName": "pokemon-battle",
+    "name": "pokemon-battle",
+    "rawSpec": "~1.3.0",
+    "spec": ">=1.3.0 <1.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pokemon-battle/-/pokemon-battle-1.3.0.tgz",
+  "_shasum": "40e306ac86c8d508e5fc2e110900efe8794e834f",
+  "_shrinkwrap": null,
+  "_spec": "pokemon-battle@~1.3.0",
+  "_where": "/Users/erlichmen/developer/gde/gcp-chatbot/cloud-functions/functions",
+  "author": {
+    "name": "fonse"
+  },
+  "bugs": {
+    "url": "https://github.com/fonse/pokemon-battle/issues"
+  },
+  "dependencies": {
+    "coffee-script": "latest"
+  },
+  "description": "Pokemon battle simulator originally built as a fun hubot command",
+  "devDependencies": {
+    "csv": "0.3"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "40e306ac86c8d508e5fc2e110900efe8794e834f",
+    "tarball": "https://registry.npmjs.org/pokemon-battle/-/pokemon-battle-1.3.0.tgz"
+  },
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm": ">= 1.1.x"
+  },
+  "homepage": "https://github.com/fonse/pokemon-battle#readme",
+  "keywords": [
+    "pokemon"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/fonse/pokemon-battle/master/LICENSE"
+    }
+  ],
+  "main": "./index",
+  "maintainers": [
+    {
+      "name": "fonse",
+      "email": "aalfonso42@gmail.com"
+    }
+  ],
+  "name": "pokemon-battle",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fonse/pokemon-battle.git"
+  },
+  "version": "1.3.0"
+}
