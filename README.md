@@ -1,4 +1,5 @@
 # gcp-chatbot Instructions
+[Watch the video with instructions of how to use this code](https://www.youtube.com/watch?v=SQOW3NgH7ck)
 
 # Dependencies
  - [Node.js](https://nodejs.org/)
